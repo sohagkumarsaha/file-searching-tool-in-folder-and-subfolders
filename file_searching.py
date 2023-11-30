@@ -16,7 +16,7 @@ def find_files(file_name, folder_path):
 
 # Example usage:
 # Provide the file name and the folder path where you want to search for the files
-# file_paths = find_file('name_of_file_to_be_search_one', r'C:\Users\ssaha42\folder\path')
+# file_paths = find_files('name_of_file_to_be_search_one', r'C:\Users\ssaha42\folder\path')
 file_paths = find_files('name_of_file_to_be_search_two', r'C:\Users\ssaha42\folder\path')
 
 # Check if any files were found
