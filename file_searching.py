@@ -1,6 +1,6 @@
 # import libraries and default functions
-import os
-import glob
+import os  # Import the os module for operating system related functionality
+import glob  # Import the glob module for pattern matching file paths
 
 def find_files(file_name, folder_path):
     # Initialize an empty list to store the file paths
