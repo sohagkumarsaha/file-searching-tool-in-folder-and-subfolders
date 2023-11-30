@@ -1,3 +1,4 @@
+# This file can be used to search a file in a folder or  sub-folders
 # import libraries and default functions
 import os  # Import the os module for operating system related functionality
 import glob  # Import the glob module for pattern matching file paths
